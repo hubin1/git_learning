@@ -1,2 +1,1 @@
-wqqwwq
-hello git:wq
+add some git commands to readme
