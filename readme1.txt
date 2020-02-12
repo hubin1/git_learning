@@ -3,4 +3,4 @@ hello git:wq
 hello git
 add git command to reademe1.txt
 324242:w3
-020202123
+123213:ww020202123
